@@ -1,4 +1,4 @@
-### Python
+# Python
 
 Skills from high school, YÖK's Data Analysis School and self learning
 
